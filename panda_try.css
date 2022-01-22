@@ -45,11 +45,6 @@ nav li {
 		box-sizing:border-box;
 	}
 
-nav li:nth-child(even) {
-		margin-right:0;
-	}
-
-
 }
 
 
